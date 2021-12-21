@@ -43,3 +43,10 @@ Wanneer een materiaal is aangemaakt wordt de gebruiker terug genavigeerd naar de
 
 ### Eindresultaat -  Toevoegen van materiaal met validatie en notificatie
 https://user-images.githubusercontent.com/10981553/146948409-5be6e47c-b60d-4bcb-9db5-4b011d29908e.mov
+
+## Vraag 8 - Theorie
+Beantwoord de volgende vragen in-line in deze README.md:
+1. Waarom kunnen is het not-done om voor de toevoeg functionaliteit de `MaterialDTO.Index` klasse te herbruiken? 
+   - Antwoord:
+3. Naar de API wordt een id-token opgestuurd bij elk request vanuit de client. Leg uit waarom dit juist of fout is.
+   - Antwoord:
