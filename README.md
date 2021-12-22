@@ -14,7 +14,7 @@ Alle packages zitten reeds in de projecten, je dient geen extra packages via NuG
 Als een materiaal wordt geleend moet er een event item worden toegevoegd aan de historiek. Zorg dat de volgende unit tests slagen:
 - `Material_Should.Have_history_after_borrowing`
 - `Material_Should.Not_be_in_stock_after_borrowing`
-- `Material_Should.Cannot_be_borrowed_twice_before_return`
+- `Material_Should.First_be_returned_when_borrowed_again`
 > Verander niets aan setters, getters of parameters, implementeer alleen de methode `Material.Borrow` op basis van de tests.
 
 ## Vraag 2 - Unit Test (10)
