@@ -60,7 +60,8 @@ Beantwoord de volgende vragen in-line in deze README.md:
    - Antwoord:
 
 ---
-# IT-lab
+
+# IT-lab (English Version)
 For the IT lab, we keep materials that can be borrowed by students, it is up to you to further complete these functionalities.
 
 ## Domain
