@@ -5,7 +5,7 @@ Voor het IT-lab, houden we materialen bij die ontleent kunnen worden, het is aan
 Het domein is relatief eenvoudig, er zijn slechts 2 klassen die we bijhouden in de databank, namelijk `Material` en `Event`, je mag tijdens het examen geen visibiliteit van de properties aanpassen. Telkens er een ontlening is, houden we een historiek bij van welke student op welke datum dit materiaal ontleende of terugbracht. De student is op zich geen entiteit maar een gewone string.
 
 ## Puntenverdeling
-De punten staan naast de vragen, indien je solution niet compileerd (0/20), code in commentaar wordt niet bekeken.
+De punten staan naast de vragen, indien je solution niet compileert (0/20), code in commentaar wordt niet bekeken.
 
 ## Functionaliteiten
 Er zijn twee primaire functionaliteiten, het opzoeken van materialen en het toevoegen van materialen die je dient te implementeren. (daarover straks meer)
