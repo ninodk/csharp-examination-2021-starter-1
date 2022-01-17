@@ -118,7 +118,7 @@ https://user-images.githubusercontent.com/10981553/146948409-5be6e47c-b60d-4bcb-
 ## Question 8 - Theory (10)
 Answer the following questions in-line in this README.md:
 1. Why is it not-done to reuse the `MaterialDTO.Index` class for the add/create functionality? 
-   - Answer:
+   - Answer: Er kunnen properties voorkomen die enkel noodzakelijk zijn bij het aanmaken van een bepaald object die niet moeten worden getoond bij de Index klasse van een DTO. Daarom scheiden we deze af. 
 3. An id token is sent to the API with each request from the client. Explain why this is right or wrong.
-   - Answer:
+   - Answer: Dit klopt. Bij elk request gaat de API gaan controlleren aan de hand van het Http Client request of deze geauthenticeerd is.
 
